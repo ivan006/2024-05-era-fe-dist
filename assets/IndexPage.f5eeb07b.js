@@ -1,0 +1,1 @@
+import{W as e,X as a,Y as s,ac as t,a1 as r}from"./index.1fc303dc.js";var c="/assets/quasar-logo-vertical.20d65235.svg";const o=r("img",{alt:"Quasar logo",src:c,style:{width:"200px",height:"200px"}},null,-1),g=Object.assign({name:"IndexPage"},{__name:"IndexPage",setup(l){return(n,_)=>(e(),a(t,{class:"flex flex-center"},{default:s(()=>[o]),_:1}))}});export{g as default};
